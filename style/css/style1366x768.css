@@ -1,0 +1,36 @@
+h1 {
+  font-size: 1.7vh;
+}
+
+p {
+  font-size: 1.2vh;
+}
+
+a {
+  font-size: 1vw;
+}
+
+button {
+  font-size: 1vw;
+}
+
+.aside_p {
+  font-size: 1.5vh;
+}
+
+.aside_data {
+  margin: 15px;
+}
+
+.company-block {
+  height: 33vh;
+  width: 13vw;
+}
+
+.company-block-name {
+  height: 4vh;
+}
+
+.company-block-data {
+  height: 3vh;
+}
