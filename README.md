@@ -1,6 +1,6 @@
 <h1 align="center">ComMEnt</h1>
 A web application for commenting on companies in a closed circle.<br/>
-Working demo: http://blmd.site/<br/>
+Working demo(not working now): http://blmd.site/<br/>
 To access via ssh or phpmyadmin, please contact me :D
 
 ## Git Clone
